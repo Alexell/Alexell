@@ -1,4 +1,4 @@
-<img src="https://alexell.ru/images/github_header0.jpg"/>
+<img src="https://alexell.ru/images/github_readme_logo.jpg"/>
 <img src="https://api.visitorbadge.io/api/visitors?path=Alexell&label=Visitors&labelColor=%232863c9&countColor=%232a5298&style=flat"/>
 
 <div align="center">
