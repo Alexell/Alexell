@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2863C9"/>
 <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2863C9"/>
 <img src="https://img.shields.io/badge/Editor-NotePad++-informational?style=flat&logo=notepad%2B%2B&logoColor=white&color=2863C9"/>
+<img src="https://img.shields.io/badge/AI-ChatGPT4-informational?style=flat&logo=openai&logoColor=white&color=2863C9"/>
 <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=php&logoColor=white&color=2863C9"/>
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2863C9"/>
 <img src="https://img.shields.io/badge/Code-Lua-informational?style=flat&logo=lua&logoColor=white&color=2863C9"/>
