@@ -25,4 +25,14 @@
 <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexell&exclude_repo=HH-Resumes-Updater&layout=compact&line_height=21" />
 <br>
 <img height="210px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Alexell&theme=github" />
+<br>
+<h2>Donate</h2>
+</div>
+<ul>
+  <li><b>TON:</b> <code>alexell.ton</code></li>
+  <li><b>BTC:</b> <code>bc1q5atgr3jyga7qce4zkh08qvv9t4c5j5u73pqn8y</code></li>
+  <li><b>ETH:</b> <code>0x8B2E296faB95c7130fBF199627e906158ECC5c0c</code></li>
+  <li><b>PayPal:</b> <a href="https://www.paypal.com/paypalme/alexell1">paypalme/alexell1</a></li>
+  <li><b>YooMoney:</b> <code>41001669194433</code></li>
+</ul>
 </div>
