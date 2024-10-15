@@ -3,9 +3,9 @@
 
 <div align="center">
 <img width="80%" src="https://readme-typing-svg.herokuapp.com?font=Lalezar&size=30&color=2863C9&center=true&vCenter=true&width=440&lines=👋+Hey%2C+I%E2%80%99m+Alexell!"/>
-<p>Sound Producer, Programmer, Web Developer.</p>
+<p>Sound Producer, Developer, Gamer.</p>
 <br>
-<a href="https://www.instagram.com/alexellpro" title="Instagram Profile"><img width="40" src="https://cdn.simpleicons.org/instagram/2863C9"></a>
+<a href="https://www.instagram.com/alexell.pro" title="Instagram Profile"><img width="40" src="https://cdn.simpleicons.org/instagram/2863C9"></a>
 <a href="https://steamcommunity.com/profiles/76561198210303223" title="Steam Profile"><img width="40" src="https://cdn.simpleicons.org/steam/2863C9"></a>
 <a href="https://www.youtube.com/@Alexell_Music" title="YouTube Channel"><img width="40" src="https://cdn.simpleicons.org/youtube/2863C9"></a>
 <a href="https://music.apple.com/artist/alexell/1083092918" title="Apple Music"><img width="40" src="https://cdn.simpleicons.org/applemusic/2863C9"></a>
