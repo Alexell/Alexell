@@ -30,7 +30,8 @@
 </div>
 <ul>
   <li><b>TON:</b> <code>alexell.ton</code></li>
-  <li><b>USDT (TRC20):</b> <code>TDztX73iSHTPCaEya9tGXS7QPL566XRkwT</code></li>
+  <li><b>USDT (TRC20):</b> <code>TX7awRxvnXXogW3hmvWRM9EAnQ853kPDRh</code></li>
+  <li><b>USDT (BEP20):</b> <code>0x8B2E296faB95c7130fBF199627e906158ECC5c0c</code></li>
   <li><b>BTC:</b> <code>bc1q5atgr3jyga7qce4zkh08qvv9t4c5j5u73pqn8y</code></li>
   <li><b>ETH:</b> <code>0x8B2E296faB95c7130fBF199627e906158ECC5c0c</code></li>
   <li><b>YooMoney:</b> <code>41001669194433</code></li>
